@@ -61,11 +61,3 @@ The goal of this project is to gain a **deep understanding of Git internals**, s
 - Improve error handling
 - Support remote repositories (push/pull)
 
----
-
-## 📌 Reference
-
-This project is inspired by the open-source guide  
-**Build Your Own Git**  
-https://github.com/codecrafters-io/build-your-own-git
-
